@@ -1,0 +1,4 @@
+DrissionPage>=4.1.0
+requests>=2.31.0
+m3u8>=3.5.0
+rich>=13.7.0

@@ -1,0 +1,26 @@
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 程序运行产物（下载的临时片段、合并后的视频、半成品文件）
+temp/
+output/
+*.part
+
+# 浏览器调试数据（如使用固定用户目录时生成）
+browser_data/
+
+# 日志
+*.log
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+desktop.ini
